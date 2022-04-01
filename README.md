@@ -10,9 +10,7 @@
 <img src="https://github.com/Kartiina/ScreenShots/blob/main/screenshots/mobile.png" width="350" alt="Mobile version"/>
 
 > Для перехода на вторую страницу можно использовать название любого ресторана
-
-> При наведении курсора на заголовки фильтра, меняется их цвет текста
-> А также цвет времени доставки ресторана
+> При наведении курсора на заголовки фильтра, меняется их цвет текста, а также цвет времени доставки ресторана
 
 ![Third screen](https://github.com/Kartiina/ScreenShots/blob/main/screenshots/pushkin.png "Second page!")
 
