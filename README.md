@@ -18,3 +18,7 @@
 > Карточки блюд при выборе плавно увеличиваются и меняют цвет фона
 
 ![Fourth screen](https://github.com/Kartiina/ScreenShots/blob/main/screenshots/pushkinactive.png "Some animation")
+
+## tnx for your attention!👻
+
+**@3d.karttina**
