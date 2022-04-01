@@ -5,7 +5,7 @@
 Мой проект немного отличается от заданного макета, но основные поставленные задачи были выполнены
 > При наведении на логотип, кнопку "войти" и корзину присутствует анимация
 
-![First Screen](https://github.com/Kartiina/ubereats/blob/main/img/first.png "first page")
+![First Screen](https://github.com/Kartiina/ubereats/blob/main/img/ubereats.png "first page")
 > Адаптивен для любого экрана
 
 <img src="https://github.com/Kartiina/ubereats/blob/main/img/mobile.png" width="350" alt="Mobile version"/>
