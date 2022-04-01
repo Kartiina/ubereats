@@ -14,7 +14,7 @@
 
 > При наведении курсора на заголовки фильтра, меняется их цвет текста, а также цвет времени доставки ресторана
 
-![Third screen]( "Second page!")
+![Third screen](https://github.com/Kartiina/ubereats/blob/main/img/pushkin%2017.49.43.png "Second page!")
 
 > Карточки блюд при выборе плавно увеличиваются и меняют цвет фона
 
